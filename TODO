@@ -1,0 +1,3 @@
+- rewrite conf for ssl support with CA and certs
+- test auth module modes
+- test client id and user with certs
